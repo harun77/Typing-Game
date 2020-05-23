@@ -1,0 +1,12 @@
+.initial {
+    color: grey;
+}
+
+.matched {
+    color: green;
+}
+
+.not-matched {
+    color: red;
+    font-weight: bold;
+}
